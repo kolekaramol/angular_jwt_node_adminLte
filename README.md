@@ -1,1 +1,1 @@
-# angular_jwt_node_adminLte
+# Angular-JWT-Auth
